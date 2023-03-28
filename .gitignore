@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Platforms Folder
 Platforms/*
+
+# Assets folder
+Content/Assets
